@@ -1,2 +1,4 @@
-# Full_Toss_Ball
-implementation of projects
+# install.packages("devtools")
+devtools::install_github("ropenscilabs/cricketdata")
+
+
